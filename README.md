@@ -1,6 +1,6 @@
 # Sistemas Digitais
 
-Projeto em **Python** que compila sentenças lógicas simples em circuitos lógicos digitais.  
+Compilador em **Python** que compila sentenças lógicas simples em circuitos lógicos digitais.  
 
 # Funcionalidades
 - Parser para expressões lógicas
